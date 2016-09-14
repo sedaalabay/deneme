@@ -1,0 +1,15 @@
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\bin\Debug\Kar Zarar Takip Sistemi.exe.config
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\bin\Debug\Kar Zarar Takip Sistemi.exe
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\bin\Debug\Kar Zarar Takip Sistemi.pdb
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar Zarar Takip Sistemi.csprojResolveAssemblyReference.cache
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Properties.Resources.resources
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar Zarar Takip Sistemi.csproj.GenerateResource.Cache
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar Zarar Takip Sistemi.exe
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar Zarar Takip Sistemi.pdb
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form2.resources
+c:\users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form3.resources
+C:\Users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form4.resources
+C:\Users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form5.resources
+C:\Users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form6.resources
+C:\Users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.Form8.resources
+C:\Users\sedalabay\documents\visual studio 2013\Projects\Kar Zarar Takip Sistemi\Kar Zarar Takip Sistemi\obj\Debug\Kar_Zarar_Takip_Sistemi.AnaMenu.resources

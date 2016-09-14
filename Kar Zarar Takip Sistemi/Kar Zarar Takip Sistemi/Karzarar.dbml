@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="kar_zarar" Class="KarzararDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=kar_zarar;Integrated Security=True" SettingsObjectName="Kar_Zarar_Takip_Sistemi.Properties.Settings" SettingsPropertyName="kar_zararConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Sirket" Member="Sirkets">
+    <Type Name="Sirket">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="isim" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="sirket_kodu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="telefon" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="fax" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="eposta" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="yetkili_kisi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="adres" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Association Name="Sirket_GelirGider" Member="GelirGiders" ThisKey="ID" OtherKey="sirket_ID" Type="GelirGider" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GelirGider" Member="GelirGiders">
+    <Type Name="GelirGider">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sirket_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="gelir" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="gider" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="tarih" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="Sirket_GelirGider" Member="Sirket" ThisKey="sirket_ID" OtherKey="ID" Type="Sirket" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

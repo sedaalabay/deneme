@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Karzarar">
+  <DataContextMoniker Name="/KarzararDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2dbf2799-edcf-48b2-9102-9a5e3ba7fbc8" absoluteBounds="1.125, 2.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/KarzararDataContext/Sirket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62d7f912-6ddc-4684-b548-a3f9cf93e532" absoluteBounds="1.1400000000000001, 2.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="af160981-e01b-4a1f-b7a6-ce1bdceea416" absoluteBounds="3.875, 2.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/KarzararDataContext/GelirGider" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8da414c-ee95-477f-840d-7bee0168f4b0" absoluteBounds="3.89, 3.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.125 : 3.63544840494792); (3.875 : 3.63544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KarzararDataContext/Sirket/Sirket_GelirGider" />
+      <nodes>
+        <classShapeMoniker Id="2dbf2799-edcf-48b2-9102-9a5e3ba7fbc8" />
+        <classShapeMoniker Id="af160981-e01b-4a1f-b7a6-ce1bdceea416" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
